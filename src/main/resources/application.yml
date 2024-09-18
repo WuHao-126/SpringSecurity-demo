@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: springbootsecurity-demo
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://101.126.87.57:3306/security?serverTimezone=Asia/Shanghai
+    username: root
+    password: 1345498749...
+server:
+  port: 9090
